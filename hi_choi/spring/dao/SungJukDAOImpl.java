@@ -80,7 +80,7 @@ public class SungJukDAOImpl implements SungJukDAO {
 			
 		
 		@Override
-		public SungJuk mapRow(ResultSet rs, int arg1) throws SQLException {
+		public SungJuk mapRow(ResultSet rs, int num) throws SQLException {
 			
 			String name = rs.getString("name");
 			int kor = rs.getInt("kor");
