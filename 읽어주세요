@@ -1,0 +1,8 @@
+# 데이터베이스 관리를 설치하기
+
+https://www.eclipse.org/datatools
+=> download => DTP 1.14.x => update site
+=> 브라우져의 url창의 주소 복사
+=> eclipse => Help = Install new software
+=> work with 창에 주소 붙여넣기 => Add => Add
+=> DTP/DTP enablement 항목 체크
